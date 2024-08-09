@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Vitolo-Resturant/static/css/main.dc67a625.css",
+    "main.js": "/Vitolo-Resturant/static/js/main.f38cefca.js",
+    "static/media/meal.mp4": "/Vitolo-Resturant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Vitolo-Resturant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/Vitolo-Resturant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Vitolo-Resturant/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/Vitolo-Resturant/static/media/menu.fcb5ee1db347a58e8a8e.png",
+    "static/media/gallery04.png": "/Vitolo-Resturant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Vitolo-Resturant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Vitolo-Resturant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Vitolo-Resturant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/V.png": "/Vitolo-Resturant/static/media/V.c2546aa644d870427e86.png",
+    "static/media/wine.png": "/Vitolo-Resturant/static/media/wine.e3023a491eeafee3fe96.png",
+    "static/media/welcome.jpg": "/Vitolo-Resturant/static/media/welcome.3a5959758a6d90c6f9ed.jpg",
+    "static/media/knife.png": "/Vitolo-Resturant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/V2.png": "/Vitolo-Resturant/static/media/V2.4d5cab649329f23c3485.png",
+    "static/media/overlaybg.png": "/Vitolo-Resturant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/salad.gif": "/Vitolo-Resturant/static/media/salad.0467834fc5ffc7ca26eb.gif",
+    "static/media/chef.png": "/Vitolo-Resturant/static/media/chef.1c28435be06d62847f56.png",
+    "static/media/checked.png": "/Vitolo-Resturant/static/media/checked.2e1001f79a91776de835.png",
+    "static/media/calendar.gif": "/Vitolo-Resturant/static/media/calendar.10df01dbc417f2773c60.gif",
+    "static/media/G.png": "/Vitolo-Resturant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/corner.png": "/Vitolo-Resturant/static/media/corner.acb8189877ed8e18006e.png",
+    "static/media/logo.png": "/Vitolo-Resturant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/quote.png": "/Vitolo-Resturant/static/media/quote.e5ba68581be5951d1672.png",
+    "static/media/award02.png": "/Vitolo-Resturant/static/media/award02.676741ff27062695edf3.png",
+    "static/media/award05.png": "/Vitolo-Resturant/static/media/award05.cacb03c53ec302074af2.png",
+    "static/media/sign.png": "/Vitolo-Resturant/static/media/sign.a72cce2240a5afb00aff.png",
+    "index.html": "/Vitolo-Resturant/index.html",
+    "static/media/spoon.svg": "/Vitolo-Resturant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.dc67a625.css.map": "/Vitolo-Resturant/static/css/main.dc67a625.css.map",
+    "main.f38cefca.js.map": "/Vitolo-Resturant/static/js/main.f38cefca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc67a625.css",
+    "static/js/main.f38cefca.js"
+  ]
+}
